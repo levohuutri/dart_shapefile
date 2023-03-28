@@ -7,5 +7,5 @@ This parser implementation is based on the
 and
 [Data File Header Structure for the dBASE Version 7 Table File](http://www.dbase.com/Knowledgebase/INT/db7_file_fmt.htm).]
 
-\ API: https://pub.dev/documentation/shapefile/latest/shapefile/shapefile-library.html
-\ Packages: https://pub.dev/packages/shapefile
+- API: https://pub.dev/documentation/shapefile/latest/shapefile/shapefile-library.html
+- Packages: https://pub.dev/packages/shapefile
