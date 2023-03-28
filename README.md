@@ -26,3 +26,4 @@ and
 **\- create(String filepath, int type):** Tạo tệp Shapefile mới với kiểu hình dạng được chỉ định và trả về một đối tượng Writer.  
 **\- addField(String name, String type, {int size = 0, int decimal = 0}):** Thêm một trường mới vào tệp Shapefile.  
 **\- addRecord(List\<dynamic> shapes, List\<dynamic> data):** Thêm một bản ghi mới vào tệp Shapefile.
+https://pub.dev/packages/shapefile
